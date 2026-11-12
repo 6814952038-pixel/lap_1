@@ -12,4 +12,4 @@
 (แทนที่บรรทัดนี้ด้วยการลากวางรูปภาพผลการทดสอบ TCP)
 
 #### รูปที่ 2: ภาพหน้าจอ Terminal ตอนทดสอบส่งข้อความระหว่าง Client-Server ของ UDP Echo
-<img src="images/screenshot.png" width="640" height="360" alt="Screenshot 2026-11-12 104221.png">
+<img src="Screenshot.png" width="640" height="360" alt="UDP Echo Test">
